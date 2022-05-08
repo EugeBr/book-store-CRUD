@@ -1,0 +1,23 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+h1 {
+  color: 15px;
+}
+
+.book-row {
+  display: flex;
+  padding: 10px;
+  gap: 8px;
+  align-items: center;
+  border-bottom: 1px solid black;
+}
+
+img {
+  width: 100%;
+}
